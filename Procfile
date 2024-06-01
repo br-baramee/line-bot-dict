@@ -1,1 +1,1 @@
-web: line-bot-dictionary
+web: line-bot-dict
