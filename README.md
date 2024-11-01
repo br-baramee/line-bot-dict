@@ -1,4 +1,4 @@
-# Dictionary Bot
+# Dictionary Bot - Not available
 Scan this QR code with LINE to add your LINE Official Account as a friend.
 
 ![Line bot dictionary](line-bot-dict.png)
